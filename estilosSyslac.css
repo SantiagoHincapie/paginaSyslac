@@ -1,0 +1,16 @@
+.h2
+{
+	size:20px;
+	text-decoration;
+	text-align:center;
+	text-decoration-color:blue;
+}
+.div
+{
+	background-color:yellow;
+	width:500px;
+	height:130px;
+	border:2px solid;
+	border-radius:3px;
+	text-align:center;
+}
